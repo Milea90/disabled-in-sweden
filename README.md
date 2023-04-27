@@ -1,39 +1,64 @@
-![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
+# Disabled in Sweden
 
-Welcome,
+Link to the page:
 
-This is the Code Institute student template for Codeanywhere. We have preinstalled all of the tools you need to get started. It's perfectly ok to use this template as the basis for your project submissions.
 
-You can safely delete this README.md file, or change it for your own project. Please do read it at least once, though! It contains some important information about Codeanywhere and the extensions we use. Some of this information has been updated since the video content was created. The last update to this file was: **March 3rd, 2023**
+## Background 
+The background story of the website is actually that I had a dream about making this website. So I did/will do.
 
-## Codeanywhere Reminders
+## Purpose  
+The main purpose of this website is to help people, especially those with disabilities, to access information about the Swedish support systems for disabled in an easy way. It can bedifficult for an outsider to know where to find the information and to understand it. Therefore the content will give some basic information on the topic. There will also be links to where one can find out more.
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere, in the terminal, type:
 
-`python3 -m http.server`
+## Implemenation
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+To create a website for mainly disabled, the website will be highly focused on accessability. Therefore, I will strive to:
 
-To run a frontend (HTML, CSS, Javascript only) application in Codeanywhere with no-cache, you can use this alias for `python3 -m http.server`.
+* structure the layout of the website so that it will be easy to understand and to navigate. No unnecessary content or layout that can distract the user.
+* choose colors for the site according to colorblindness, for example blue with yellow, wich also matches the theme of the website since the swedish flag is blue and yellow.
+* implement code that makes it easy for screenreaders to read the content on the website in a correct maner, for example, by using aria-labels and/or semantic code, by writing good alt-names for images, choosing an accessable font-style etc etc.
+* write the content with the purpose of making it simple and easy to understand, for example, keep the content short and percise. 
+* make it easy for the user to navigate to an external websites to learn more about the subject if they want to.
+* use a consistent design on all 5 web pages.
+* validate the code with WC3 to be sure the code passes the accessibility test 
+* use google translate to make sure that english screan readers works properly since my native language is not english
 
-`http_server`
+## Languages used
+HTML, CSS
 
-To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
 
-A button should appear to click: _Open Preview_ or _Open Browser_.
+## Technologies used
+Git, Github, Code Anywhere, Bootstrap? 
+I also tried to install a Chrome screanreader on my computer but I could not figure out how it worked. So unfortunatly, I do not know how well my implemantations work with screanreaders.
 
-In Codeanywhere you have superuser security privileges by default. Therefore you do not need to use the `sudo` (superuser do) command in the bash terminal in any of the lessons.
+## Images
+The images is downloaded from: 
 
-To log into the Heroku toolbelt CLI:
+## Written content
+The content is written by myself. The content has also been going through a plagiarism checker to make sure none of the content was plagiarized. 
+The soucres for the content comes from swedish websites such as: 
 
-1. Log in to your Heroku account and go to _Account Settings_ in the menu under your avatar.
-2. Scroll down to the _API Key_ and click _Reveal_
-3. Copy the key
-4. In Codeanywhere, from the terminal, run `heroku_config`
-5. Paste in your API key when asked
+www.fk.se
 
-You can now use the `heroku` CLI program - try running `heroku apps` to confirm it works. This API key is unique and private to you so do not share it. If you accidentally make it public then you can create a new one with _Regenerate API Key_.
+## Colors
+In order to set the colors for the website, I used this website: https://www.colorblindguide.com/post/colorblind-friendly-design-3 to help me choose colors that worked well with colorblind, like yellow and blue.
 
----
 
-Happy coding!
+## UX-design
+I imagine that the main user will be, but does not have to be, someone with disabilities. Therefore I will create a website that takes that into account thruout the complete website, on every page, from top to bottom. That will include things like: 
+
+* using aria lables
+* choosing colors according to colorblindness
+* easy navigation
+* writing content that is easy to understand
+* chosing fonts that are easy to read
+* implementing icon fonts to make the site a bit "ligther" in a sense.  
+
+## Used code
+In order to be able to finish the procect in time, I have used this website a lot:
+https://www.w3schools.com/howto/howto_js_topnav.asp
+It helped me to find quick answers to how to write my code in order to get the result I was looking for. It is a great website when I need a syntax for whatever reason. 
+I have written tons of notes during the HTML/CSS course, but due to the limited timeframe for finishing the project, I quickly found out that Google gave me much quicker and better answers than trying to find the answers among hundreds of different notes. At times, I do not even understand my own notes due to the lack of fine handwriting and total lack of structure.
+
+## Acknowledgements
+I would like to acknowledge everyone on slack for helping out with miner issues. And also...
