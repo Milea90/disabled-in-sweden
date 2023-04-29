@@ -19,7 +19,7 @@ To create a website for mainly disabled, the website will be highly focused on a
 * implement code that makes it easy for screenreaders to read the content on the website in a correct maner, for example, by using aria-labels and/or semantic code, by writing good alt-names for images, choosing an accessable font-style etc etc.
 * write the content with the purpose of making it simple and easy to understand, for example, keep the content short and percise. 
 * make it easy for the user to navigate to an external websites to learn more about the subject if they want to.
-* use a consistent design on all 5 web pages.
+* use a consistent design on all 6 pages.
 * validate the code with WC3 to be sure the code passes the accessibility test 
 * use google translate to make sure that english screan readers works properly since my native language is not english
 
@@ -37,8 +37,11 @@ The images is downloaded from:
 ## Written content
 The content is written by myself. The content has also been going through a plagiarism checker to make sure none of the content was plagiarized. 
 The soucres for the content comes from swedish websites such as: 
-
+www.do.se
 www.fk.se
+www.kunskapsguiden.se
+
+I use many shortenings for different swedish institutions and suchs on the website. Therefore I have tried to have accessibility in mind by using a dot between them so a screan reader would read for example DO as D.O and not "do".
 
 ## Colors
 In order to set the colors for the website, I used this website: https://www.colorblindguide.com/post/colorblind-friendly-design-3 to help me choose colors that worked well with colorblind, like yellow and blue.
