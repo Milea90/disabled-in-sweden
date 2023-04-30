@@ -1,0 +1,53 @@
+body {
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.hero {
+    background-color: #6da4f7;
+    background-image: url(../images/assist-g3c516a27f_1280.jpg);
+    padding-bottom: 17%;
+    padding-top: 12%;
+    font-size: 1rem;
+}
+
+.topnav {
+    background-color: #f7ea77;
+    font-size: 2rem;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+nav a {
+    text-decoration: none;
+}
+
+h1,
+h2,
+p {
+    font-style: arial;
+    color:
+
+}
+
+.div1 {
+    background-color: #6da4f7;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.div2 {
+    background-color: #f7ea77;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+footer {
+    background-color: #6da4f7;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+footer p {
+    text-align: center;
+}

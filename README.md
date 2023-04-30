@@ -24,7 +24,7 @@ To create a website for mainly disabled, the website will be highly focused on a
 * use google translate to make sure that english screan readers works properly since my native language is not english
 
 ## Languages used
-HTML, CSS
+HTML5, CSS
 
 
 ## Technologies used
