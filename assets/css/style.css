@@ -8,15 +8,21 @@ body {
     background-image: url(../images/hands.png);
     padding-bottom: 12%;
     padding-top: 12%;
+    background-repeat: no-repeat;
 }
 
 .hero-text {
     background-color: #6da4f7;
-    background-position: bottom;
     margin-left: 1%;
     margin-right: 70%;
-    font-size: 1rem;
+}
 
+.hero-text h2 {
+    font-size: 1.8rem
+}
+
+.hero-text h3 {
+    font-size: 1.5rem
 }
 
 .topnav {
@@ -66,8 +72,6 @@ p {
     padding-right: 5%;
     padding-bottom: 5%;
     padding-top: 5%;
-
-
 }
 
 .link-text,
@@ -76,8 +80,6 @@ p {
 .list-text {
     font-size: 1.5rem;
 }
-
-
 
 footer {
     background-color: #6da4f7;
@@ -89,7 +91,8 @@ footer {
 
 .foot-lss,
 .foot-fk,
-.foot-learn .foot1 {
+.foot-learn,
+.foot-contact {
     background-color: #f7ea77;
 }
 
