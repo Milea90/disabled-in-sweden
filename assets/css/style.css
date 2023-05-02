@@ -78,7 +78,7 @@ p {
     padding-top: 5%;
 }
 
-/*Styling pictures in divs*/
+/*Styling pictures in the divs*/
 #phone {
     content: url(../images/phone.png);
     height: 10%;
@@ -112,7 +112,7 @@ p {
     width: 40%;
     float: right;
     padding-top: 10%;
-    padding-right: 1%;
+    padding-right: 3%;
     padding-left: 1%;
 }
 
@@ -161,4 +161,12 @@ footer {
 
 footer p {
     text-align: center;
+}
+
+@media (max-width:1000px) {
+    .hero-text {
+        margin: 0;
+        padding-left: 15%;
+        padding-right: 15%;
+    }
 }
