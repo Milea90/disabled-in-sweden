@@ -6,7 +6,7 @@ body {
 /*Styling the background image*/
 .hero {
     background-color: #BBDFFF;
-    background-image: url(../images/hands.png);
+    background-image: url(../images/flag.jpg);
     padding-bottom: 12%;
     padding-top: 12%;
     background-repeat: no-repeat;
@@ -16,7 +16,7 @@ body {
 .hero-text {
     background-color: #BBDFFF;
     margin-left: 1%;
-    margin-right: 70%;
+    margin-right: 58%;
 }
 
 .hero-text h2 {
