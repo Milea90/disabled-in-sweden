@@ -95,6 +95,17 @@ p {
     padding-right: 1%;
 }
 
+#money {
+    content: url(../images/money.jpg);
+    height: 30%;
+    width: 40%;
+    float: right;
+    padding-top: 2%;
+    padding-right: 1%;
+    margin-left: 1%;
+
+}
+
 /*styling all links and lists fontsizes*/
 .link-text,
 .do-link,
