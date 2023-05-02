@@ -78,6 +78,13 @@ p {
     padding-top: 5%;
 }
 
+#phone {
+    content: url(../images/phone.png);
+    height: 10%;
+    width: 10%;
+    float: right;
+}
+
 /*styling all links and lists fontsizes*/
 .link-text,
 .do-link,
