@@ -48,17 +48,17 @@ nav a {
 
 /*Styling all the headers and paragraphs*/
 h1 {
-    font-style: arial, helvetica;
+    font-family: arial, helvetica;
     font-size: 1.8rem
 }
 
 h2 {
-    font-style: arial, helvetica;
-    font-size: 1, 65rem
+    font-family: arial, helvetica;
+    font-size: 1.65rem
 }
 
 p {
-    font-style: arial, helvetica;
+    font-family: arial, helvetica;
     font-size: 1.5rem;
 }
 
@@ -93,7 +93,8 @@ p {
     width: 40%;
     float: right;
     padding-top: 7%;
-    padding-right: 3%;
+    padding-right: 2%;
+    padding-left: 2%;
 }
 
 #money {
