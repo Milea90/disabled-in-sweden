@@ -102,8 +102,38 @@ p {
     float: right;
     padding-top: 2%;
     padding-right: 1%;
-    margin-left: 1%;
+    padding-left: 1%;
 
+}
+
+#wheelchair-beach {
+    content: url(../images/wheelchair-beach.jpg);
+    height: 30%;
+    width: 40%;
+    float: right;
+    padding-top: 10%;
+    padding-right: 1%;
+    padding-left: 1%;
+}
+
+#wheelchair {
+    content: url(../images/wheelchair.jpg);
+    height: 30%;
+    width: 40%;
+    float: right;
+    padding-top: 5%;
+    padding-right: 1%;
+    padding-left: 1%;
+}
+
+#wheelchair-sign {
+    content: url(../images/wheelchair-sign.png);
+    height: 30%;
+    width: 30%;
+    float: right;
+    padding-top: 5%;
+    padding-right: 1%;
+    padding-left: 2%;
 }
 
 /*styling all links and lists fontsizes*/
@@ -125,7 +155,6 @@ footer {
 
 .foot-lss,
 .foot-fk,
-.foot-learn,
 .foot-contact {
     background-color: #f7ea77;
 }
