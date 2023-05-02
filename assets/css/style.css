@@ -78,11 +78,21 @@ p {
     padding-top: 5%;
 }
 
+/*Styling pictures in divs*/
 #phone {
     content: url(../images/phone.png);
     height: 10%;
     width: 10%;
     float: right;
+}
+
+#lady {
+    content: url(../images/lady.jpg);
+    height: 30%;
+    width: 40%;
+    float: right;
+    padding-top: 15%;
+    padding-right: 1%;
 }
 
 /*styling all links and lists fontsizes*/
