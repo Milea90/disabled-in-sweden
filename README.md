@@ -1,13 +1,11 @@
 # Disabled in Sweden
-
 Link to the page:
 
+The background story of this website, is actually that I had a dream about creating it. So I did.
 
-## Background 
-The background story of the website is actually that I had a dream about making this website. So I did/will do.
+The main purpose of this website, is to help people, especially those with disabilities, to access information about the Swedish support systems for disabled, if they for example are planning to move to Sweden and need to know about this before moving. The goal is to present the content in an accesseble manner. That includes creating the website with accessibility in focus during every step on the way - from choosing the background colors to writing code that is filled with semantic code as well as alt-attributes and aria-labels.
 
-## Purpose  
-The main purpose of this website is to help people, especially those with disabilities, to access information about the Swedish support systems for disabled in an easy way. It can bedifficult for an outsider to know where to find the information and to understand it. Therefore the content will give some basic information on the topic. There will also be links to where one can find out more.
+Since the topic of the website is about support systems that can assist people with disabilities, I thought it would be a great oportunity to demonstrate what a website with a main focus on accesibiliity could look like. By doing so, the website adds a value to the user in two ways: by presenting valueble content about a topic that otherwise can be very difficult to find and/or understand once found, but also by doing so in a way that is accessible for those with different kind of disabilities. At least that is the goal.
 
 
 ## Implemenation
