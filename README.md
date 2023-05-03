@@ -25,34 +25,34 @@ When creating a website with accessibility as the main focus, I was quite limite
 
 ### Home-page
 
-On the home page is an introduction to the website and gathered information of what the website covers and a Google map over Sweden.
+On the home page, there is an introduction to the website and gathered information of what the website covers and a Google map over Sweden.
 ![](readme-images/home.png)
 ![](readme-images/map.png)
 
 ### LSS-page
 
-On the LSS page is information about what LSS really is.
+On the LSS page, there is information about what LSS really is.
 ![](readme-images/lss.png)
 
 ### DO-page
 
-On the DO page is information about what DO does and there is also a link to their website.
-[](readme-images/do.png)
+On the DO page, there is information about what DO does and there is also a link to their website.
+![](readme-images/do.png)
 
 ### FK-page
 
-On the FK page is information about what FK is and there is also a link to their website.
+On the FK page, there is information about what FK is and there is also a link to their website.
 ![](readme-images/fk.png)
 
 ### Learn more-page
 
-On the Learn more page is information about the view on disabilities in Sweden. There is also a video with facts about Sweden.
+On the Learn more page, there is information about the view on disabilities in Sweden. There is also a video with facts about Sweden.
 ![](readme-images/lm.png)
  ![](readme-images/lm-video.png)
 
 ### Contact-page
 
-On the contact page are links to the different institutions mentioned on the site.
+On the contact page there are links to the different institutions mentioned on the site.
  ![](readme-images/contact.png)
 
 ## Features
