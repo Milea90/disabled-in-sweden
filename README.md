@@ -8,6 +8,7 @@ The main purpose of this website, is to help people, especially those with disab
 Since the topic of the website is about support systems that can assist people with disabilities, I thought it would be a great oportunity to demonstrate what a website with a main focus on accesibiliity could look like. By doing so, the website adds a value to the user in two ways: by presenting valueble content about a topic that otherwise can be very difficult to find and/or understand once found, but also by doing so in a way that is accessible for those with different kind of disabilities. At least that is the goal.
 
 
+
 ## Implemenation
 
 To create a website for mainly disabled, the website will be highly focused on accessability. Therefore, I will strive to:
