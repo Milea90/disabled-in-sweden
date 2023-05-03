@@ -79,7 +79,7 @@ p {
     padding-top: 5%;
 }
 
-/*Styling pictures in the divs*/
+/*Styling images in the divs*/
 #phone {
     content: url(../images/phone.png);
     height: 20%;
@@ -148,17 +148,17 @@ p {
 
 /*Styling footers*/
 footer {
-    background-color: #6BB9FB;
+    background-color: #f7ea77;
     padding-top: 2%;
     padding-bottom: 2%;
     padding-left: 5%;
     padding-right: 5%;
 }
 
-.foot-lss,
-.foot-fk,
-.foot-contact {
-    background-color: #f7ea77;
+#foot-do,
+#foot-learn {
+    background-color: #6BB9FB;
+
 }
 
 footer p {
