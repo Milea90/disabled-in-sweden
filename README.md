@@ -1,6 +1,6 @@
 # Disabled in Sweden
 
-Link to the page:
+![](readme-images/preview.png)
 
 The background story of this website, is actually that I had a dream about creating it. So I did.
 
@@ -114,16 +114,17 @@ In order to make sure everything works as expected, I have manually tested the s
   I have been very fortunate with this project for not having to deal with a lot of bugs. But I did find some, and they are the YouTube video and Google map.
   The Google map and the YouTube video were not responsive at all. First, I solved it by changing their fixed units to relative units instead, and that worked perfectly. But when I was validating the html code, it did not pass. So I had to change them back to the original units. Then I tried to fit them into divs, but they just would not behave accordingly to the divs. I searched on Google and found a syntax for it, but it did not work either, and I had no time left to fix it. So I ended up making them very small and putting them in the left corner of a div so that even if screen sizes reduced, they would be in some way responsive.
 
-  Also, I wanted to see how the site would behave if I was minimizing the whole site to under 100%, and it quickly became very distorted. But that was late into the project and I had no time to look further into it.
+  Also, I wanted to see how the site would behave if I was minimizing the whole site to under 100%, and it quickly became very distorted. But that was late into the project and I had no time to look further into it. That also showed up when creating a picture using Am I Responsive, where the site was distorted on larger screens.
 
 ## Deployment
 
 The site was deployed to GitHub pages. The steps for deploying are:
 
-* Go to the GitHub repository and navigate to the Settings tab.
-* From the source section drop-down menu, select the Master Branch.
-* When master branch is selected, the page will be refreshed, indicating a successful deployment.
-The live link can be found here - <>
+* Go to the GitHub repository and click on Settings.
+* On the General page, click on "pages" on the navigation menu to the left. 
+* Then choose "main" under "branch". Then click save.
+* The page will reload and a link will be created.
+Link to the page: [Klick here](https://milea90.github.io/disabled-in-sweden/contact.html)
 
 ## Languages used
 
